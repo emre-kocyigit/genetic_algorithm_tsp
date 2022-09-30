@@ -1,0 +1,2 @@
+# genetic_algorithm_tsp
+You can use this package for Travelling Salesman Problem-related optimization problems such as Route Planning, Delivery Management etc. I implemented all important operators of Genetic Algorithm: Crossover, Mutation, Elitism, Tournament Selection etc. I created a dataset which contains 20 points, and each point has X-Y coordinates. You can use this dataset or any dataset which is in the same form without major modifying in the code.
