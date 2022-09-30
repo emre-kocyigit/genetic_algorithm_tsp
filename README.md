@@ -3,12 +3,12 @@ You can use this package for Travelling Salesman Problem-related optimization pr
 
 
 ## inputs
-dataset --> Check the training_dataset.txt file. Use same format for different datasets. 
+- dataset --> Check the training_dataset.txt file. Use same format for different datasets. 
  - Change N, according to the point number.
  
-number of generations --> iteration size
-population size --> total number of chromosomes(solutions) in a generation
-mutation rate --> it should be between 0 and 1. Usually, 0.2 or less provides better results.
+- number of generations --> iteration size
+- population size --> total number of chromosomes(solutions) in a generation
+- mutation rate --> it should be between 0 and 1. Usually, 0.2 or less provides better results.
 
 ## outputs
  - Improved generation which has choromosome objects. Each chromosome object contains Node objects which have id, x and y values.
